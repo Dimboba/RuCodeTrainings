@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(7,43): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(18,20): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(24,25): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(24,40): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(26,41): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(27,68): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(87,41): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(88,68): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(89,41): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(90,68): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(91,41): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(92,68): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\BiDynamic\Source.cpp(23,19): warning C4101: a: неиспользованная локальная переменная
+  BiDynamic.vcxproj -> C:\Users\lazar\Desktop\JustCode\RuCode\BiDynamic\Debug\BiDynamic.exe

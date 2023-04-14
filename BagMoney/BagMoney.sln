@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BagMoney", "BagMoney\BagMoney.vcxproj", "{34F7899E-873C-473B-98CA-28EBAF194039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Debug|x64.ActiveCfg = Debug|x64
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Debug|x64.Build.0 = Debug|x64
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Debug|x86.ActiveCfg = Debug|Win32
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Debug|x86.Build.0 = Debug|Win32
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Release|x64.ActiveCfg = Release|x64
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Release|x64.Build.0 = Release|x64
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Release|x86.ActiveCfg = Release|Win32
+		{34F7899E-873C-473B-98CA-28EBAF194039}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DEF99F-60B5-4D86-A0AA-55386E832948}
+	EndGlobalSection
+EndGlobal

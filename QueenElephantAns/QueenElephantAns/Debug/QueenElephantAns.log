@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(9,25): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(11,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(11,33): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(12,59): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(13,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(14,68): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(16,41): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(16,36): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(17,41): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(17,36): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(18,45): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(18,40): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(20,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(20,33): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(21,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(21,33): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(22,42): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(22,37): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(37,69): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(51,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(52,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(65,36): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(67,20): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(68,23): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(92,17): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(92,20): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(97,22): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(97,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\QueenElephantAns\Source.cpp(8,19): warning C4101: a: неиспользованная локальная переменная
+  QueenElephantAns.vcxproj -> C:\Users\lazar\Desktop\JustCode\RuCode\QueenElephantAns\Debug\QueenElephantAns.exe

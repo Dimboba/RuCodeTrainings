@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,48): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,62): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,67): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,80): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(8,87): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(9,15): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(9,20): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(10,15): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(10,22): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(17,23): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(19,33): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(20,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(21,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(24,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(24,28): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(25,50): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(26,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,13): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,16): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,45): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,50): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,64): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,69): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,82): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,89): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,103): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(37,106): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(39,22): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\AnswerRecreate\Source.cpp(39,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  AnswerRecreate.vcxproj -> C:\Users\lazar\Desktop\JustCode\RuCode\AnswerRecreate\Debug\AnswerRecreate.exe

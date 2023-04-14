@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\RuCode\ModArithmetics\ModArithmetics\Source.cpp(188,26): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\ModArithmetics\ModArithmetics\Source.cpp(191,53): warning C4244: инициализация: преобразование "_Ty" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+  ModArithmetics.vcxproj -> C:\Users\lazar\Desktop\JustCode\RuCode\ModArithmetics\Debug\ModArithmetics.exe

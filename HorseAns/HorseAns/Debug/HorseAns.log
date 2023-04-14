@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(10,48): warning C4244: return: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(15,16): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(47,14): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(48,14): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(52,18): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(55,39): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\HorseAns\Source.cpp(55,20): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  HorseAns.vcxproj -> C:\Users\lazar\Desktop\JustCode\RuCode\HorseAns\Debug\HorseAns.exe

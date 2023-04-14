@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFSigogoPQ", "BFSigogoPQ\BFSigogoPQ.vcxproj", "{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Debug|x64.ActiveCfg = Debug|x64
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Debug|x64.Build.0 = Debug|x64
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Debug|x86.Build.0 = Debug|Win32
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Release|x64.ActiveCfg = Release|x64
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Release|x64.Build.0 = Release|x64
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Release|x86.ActiveCfg = Release|Win32
+		{4B5B95CE-19AF-4355-9A8F-FFA599D14C2A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB93450-E5E1-4A79-97A8-79F0337A029B}
+	EndGlobalSection
+EndGlobal
